@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "2023-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2023-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2023-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "2023-03.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2023-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,15 +175,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a67e488e91855aa5",
+  "active": "81e78ae45b3ffb87",
   "lastOpenFiles": [
+    "2023-03-20.md",
+    "2023-W12.md",
+    "2023-03.md",
+    "2023-02-19.md",
+    "무제 파일.md",
     "Untitled.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
-    "무제 파일.md",
     "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
     "desktop.ini",
     "무제 파일 2.canvas",
@@ -196,7 +201,6 @@
     "과업.md",
     "계획/'2022/5~8주차(2월)/무제 파일.md",
     "계획/'2022/1~4주차(1월)/Untitled.md",
-    "2023-02-19.md",
     "eo/Untitled 1.md",
     "eo/Untitled.md",
     "계획/'2022/5~8주차(2월)/Untitled 1.md",
