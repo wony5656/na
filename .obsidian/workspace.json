@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03.md",
+                "file": "2023-03-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03.md",
+                "file": "2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03.md",
+                "file": "2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03.md"
+                "file": "2023-03-20.md"
               }
             }
           },
@@ -181,13 +181,13 @@
   },
   "active": "81e78ae45b3ffb87",
   "lastOpenFiles": [
+    "2023-03.md",
     "2023-03-20.md",
     "2023-W12.md",
-    "2023-03.md",
     "2023-02-19.md",
+    "Untitled 1.md",
     "무제 파일.md",
     "Untitled.md",
-    "Untitled 1.md",
     "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
     "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
     "desktop.ini",
