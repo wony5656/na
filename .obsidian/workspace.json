@@ -26,9 +26,11 @@
             "id": "81e78ae45b3ffb87",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -176,22 +178,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81e78ae45b3ffb87",
+  "active": "a67e488e91855aa5",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
+    "무제 파일.md",
     "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
     "desktop.ini",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "Excalidraw/Drawing 2023-03-12 18.57.00.excalidraw.md",
-    "Untitled 1.md",
     "계획/Pasted Image 20230312185717_420.png",
     "계획/다운로드.png",
     "Excalidraw",
     "무제 파일.canvas",
     "과업.md",
-    "Untitled.md",
     "계획/'2022/5~8주차(2월)/무제 파일.md",
     "계획/'2022/1~4주차(1월)/Untitled.md",
     "2023-02-19.md",
