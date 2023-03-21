@@ -8,34 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bdf5de045fd5f3b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 파일 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "81e78ae45b3ffb87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-20.md",
+                "file": "2023-03-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-20.md",
+                "file": "2023-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-20.md",
+                "file": "2023-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,24 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-20.md"
-              }
-            }
-          },
-          {
-            "id": "a67e488e91855aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03.md",
-                "mode": "source",
-                "source": false
+                "file": "2023-03-21.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,26 +153,29 @@
   },
   "active": "81e78ae45b3ffb87",
   "lastOpenFiles": [
-    "2023-03.md",
-    "2023-03-20.md",
     "2023-W12.md",
+    "2023-03-21.md",
+    "계획/'2022/1~4주차(1월)/Untitled.md",
+    "2023-03-20.md",
+    "2023-03.md",
     "2023-02-19.md",
+    "과업.md",
+    "Untitled.md",
+    "Drawing 2023-03-21 13.02.28.excalidraw.md",
+    "무제 파일.canvas",
+    "Excalidraw/Drawing 2023-03-12 18.57.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-21 13.01.02.excalidraw.md",
     "Untitled 1.md",
     "무제 파일.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
     "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
     "desktop.ini",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "Excalidraw/Drawing 2023-03-12 18.57.00.excalidraw.md",
     "계획/Pasted Image 20230312185717_420.png",
     "계획/다운로드.png",
     "Excalidraw",
-    "무제 파일.canvas",
-    "과업.md",
     "계획/'2022/5~8주차(2월)/무제 파일.md",
-    "계획/'2022/1~4주차(1월)/Untitled.md",
     "eo/Untitled 1.md",
     "eo/Untitled.md",
     "계획/'2022/5~8주차(2월)/Untitled 1.md",
