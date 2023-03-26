@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5ecf171b34b07e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-26.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-26.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-26.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -160,10 +172,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "81e78ae45b3ffb87",
+  "active": "f5ecf171b34b07e9",
   "lastOpenFiles": [
-    "2023-03-21.md",
     "2023-03-26.md",
+    "무제 파일.md",
+    "2023-03-21.md",
     "desktop.ini",
     "2023-03-19.md",
     "2023-03.md",
@@ -178,7 +191,6 @@
     "Excalidraw/Drawing 2023-03-12 18.57.00.excalidraw.md",
     "Excalidraw/Drawing 2023-03-21 13.01.02.excalidraw.md",
     "Untitled 1.md",
-    "무제 파일.md",
     "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
     "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
     "무제 파일 2.canvas",
