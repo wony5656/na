@@ -11,8 +11,10 @@
             "id": "7db0c17e48942b05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "계획/다운로드.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "계획/다운로드.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "계획/다운로드.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,15 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
-        }
-      },
-      {
-        "id": "ad3a95b56fbd61d7",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
+          "state": {
+            "file": "계획/다운로드.png"
+          }
         }
       }
     ],
@@ -123,21 +121,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "7db0c17e48942b05",
   "lastOpenFiles": [
+    "2023-03-26.md",
+    "계획/다운로드.png",
+    "계획/Pasted Image 20230312185717_420.png",
     "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
     "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md"
   ]
