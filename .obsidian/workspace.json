@@ -11,8 +11,12 @@
             "id": "81e78ae45b3ffb87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. 계획 및 실행/'2023/2023-W13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. 계획 및 실행/'2023/2023-W13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +158,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ec24534bf92be696",
+  "active": "81e78ae45b3ffb87",
   "lastOpenFiles": [
-    "2023-W12.md",
+    "4. 계획 및 실행/'2023/2023-W13.md",
     "4. 계획 및 실행/'2023/2023-W12.md",
+    "2023-W12.md",
     "_인덱스 메모.md",
     "4. 계획 및 실행/'2023/1~4주차(1월)/Untitled.md",
     "4. 계획 및 실행/'2023/5~8주차(2월)/Untitled/7주차.md",
@@ -183,7 +189,6 @@
     "200 종교.md",
     "600 예술.md",
     "5. 제텔카스텐/1단계 - 메모/무제 파일.md",
-    "2023-03-19.md",
     "2. 업무/C. 홍보",
     "2. 업무/B. 해외 프로젝트",
     "2. 업무/A. 국내 프로젝트",
