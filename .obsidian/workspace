@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "429ba9f6902f0956",
+    "type": "split",
+    "children": [
+      {
+        "id": "91548e672652a5cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "900 역사.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c13db1dc5433c6fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "84bdb22381e7d5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b713e42fedbe30c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a103595dc9fc077",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#제텔카스텐/what/제텔카스텐의_개념",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "2fd23c47c3018f92",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b524417a0c1d32b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c945a725f5cb331",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "900 역사.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "feb4d80604446ce8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "91548e672652a5cf",
+  "lastOpenFiles": [
+    "900 역사.md",
+    "800 문학.md",
+    "700 언어.md",
+    "600 예술.md",
+    "500 기술과학.md",
+    "400 자연과학.md",
+    "300 사회과학.md",
+    "200 종교.md",
+    "100 철학.md",
+    "3. 자기계발/C. 다이어트/3.  다이어트에 좋은 운동법.md"
+  ]
+}

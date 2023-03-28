@@ -1,6 +1,3 @@
 {
-  "trashOption": "local",
-  "promptDelete": false,
-  "attachmentFolderPath": "계획",
-  "livePreview": true
+  "alwaysUpdateLinks": true
 }
