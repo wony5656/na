@@ -11,25 +11,25 @@
   "weekly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "4. 계획 및 실행/'2023",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "4. 계획 및 실행/'2023",
     "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "4. 계획 및 실행/'2023",
     "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "4. 계획 및 실행/'2023",
     "enabled": true
   }
 }
