@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 철학.md",
+                "file": "4. 계획 및 실행/'2023/2023-03-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,20 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "0a52b97c6c7c0089",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "417e2932fbf11976",
@@ -85,25 +79,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 철학.md",
+                "file": "4. 계획 및 실행/'2023/2023-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "527dfc45b8e1e78f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "_인덱스 메모.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -116,16 +98,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "37514a19cdfbcd58",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_인덱스 메모.md"
               }
             }
           },
@@ -159,17 +131,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ec24534bf92be696",
+  "active": "814e08ef15d8f168",
   "lastOpenFiles": [
+    "200 종교.md",
+    "_인덱스 메모.md",
+    "100 철학.md",
     "-1. 아이디어/무제 폴더",
     "-2",
     "-1. 아이디어",
     "700 언어.md",
     "900 역사.md",
     "과업.md",
-    "200 종교.md",
-    "100 철학.md",
-    "_인덱스 메모.md",
     "1. 개인/C. 버킷 리스트/3. 캠핑하기.md",
     "1. 개인/C. 버킷 리스트/2. 책쓰기.md",
     "0. 지식창고/010. 기타정보/012. 도서 목록.md",
@@ -199,7 +171,6 @@
     "1. 개인/C. 버킷 리스트",
     "1. 개인/B. 쇼핑 리스트",
     "1. 개인/A. 일정",
-    "1. 개인",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
   ]
