@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. 계획 및 실행/'2023/2023-W13.md",
+                "file": "4. 계획 및 실행/'2023/2023-03-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93c01b67584e9346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/정보 및 자료 수집.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18c87fc60efa3949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/정보 및 자료 수집.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. 계획 및 실행/'2023/2023-W13.md",
+                "file": "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/정보 및 자료 수집.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,10 +153,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ec24534bf92be696",
+  "active": "18c87fc60efa3949",
   "lastOpenFiles": [
+    "4. 계획 및 실행/용사는 연애하기 위해 마왕과 계약한다/정보 및 자료 수집.md",
+    "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/정보 및 자료 수집.md",
+    "0. 지식창고/030. 태그/031. 출처.md",
+    "0. 지식창고/030. 태그/032. 저자.md",
     "4. 계획 및 실행/'2023/2023-03-29.md",
-    "4. 계획 및 실행/무제 폴더",
+    "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/무제 폴더",
+    "4. 계획 및 실행/'2023/2023-W13.md",
+    "4. 계획 및 실행/무제 파일.md",
+    "4. 계획 및 실행/용사는 연애하기 위해 마왕과 계약한다",
+    "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필",
     "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test1.html",
     "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test1.asp",
     "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test.html",
@@ -139,9 +172,7 @@
     "Anki/lib/win32comext/axscript/Demos/client/wsh/test.pys",
     "Anki/lib/win32comext/axscript/Demos/client/wsh/registry.pys",
     "Anki/lib/win32comext/axscript/Demos/client/wsh/excel.pys",
-    "Anki/lib/win32comext/axscript/Demos/client/wsh/blank.pys",
     "Anki/lib/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
-    "Anki/lib/win32comext/axscript/Demos/client/ie/mousetrack.htm",
     "Anki/lib/_aqt/data/qt/icons/tag.svg",
     "Anki/lib/_aqt/data/qt/icons/tag-outline.svg",
     "Anki/lib/_aqt/data/qt/icons/tag-off-outline.svg",
@@ -170,11 +201,6 @@
     "1. 개인/A. 일정/3. 휴가.md",
     "1. 개인/A. 일정/1. 개인 일정.md",
     "1. 개인/A. 일정/2. 경조사.md",
-    "1. 개인/C. 버킷 리스트/1. 여행.md",
-    "2. 업무/B. 해외 프로젝트/1.  현지 지부 설립.md",
-    "500 기술과학.md",
-    "600 예술.md",
-    "300 사회과학.md",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
