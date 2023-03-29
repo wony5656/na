@@ -4,8 +4,8 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "0. 지식창고/020. 템플릿 양식/021. 일간노트 템플릿.md",
+    "folder": "4. 계획 및 실행/'2023",
     "enabled": true
   },
   "weekly": {
