@@ -11,8 +11,12 @@
             "id": "7db0c17e48942b05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. 계획 및 실행/'2023/2023-04-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "4. 계획 및 실행/'2023/2023-04-03.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,6 +132,8 @@
   },
   "active": "7db0c17e48942b05",
   "lastOpenFiles": [
+    "4. 계획 및 실행/'2023/2023-04-01.md",
+    "4. 계획 및 실행/'2023/2023-04-03.md",
     "2023-03-26.md",
     "계획/다운로드.png",
     "계획/Pasted Image 20230312185717_420.png",
