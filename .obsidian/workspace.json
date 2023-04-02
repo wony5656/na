@@ -162,11 +162,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
   "active": "14d08b9b54f642e3",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230402.md",
+    "Day Planners",
     "4. 계획 및 실행/'2023/2023-03-31.md",
     "4. 계획 및 실행/'2023/2023-04-01.md",
     "4. 계획 및 실행/'2023/2023-04-02.md",
@@ -194,7 +197,6 @@
     "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test.html",
     "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test.asp",
     "Anki/lib/win32comext/axscript/Demos/client/wsh/test.pys",
-    "Anki/lib/win32comext/axscript/Demos/client/wsh/registry.pys",
     "Anki/lib/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
     "Anki/lib/_aqt/data/qt/icons/tag.svg",
     "Anki/lib/_aqt/data/qt/icons/tag-outline.svg",
@@ -212,7 +214,6 @@
     "900 역사.md",
     "과업.md",
     "1. 개인/C. 버킷 리스트/3. 캠핑하기.md",
-    "1. 개인/C. 버킷 리스트/2. 책쓰기.md",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
