@@ -1,10 +1,10 @@
 {
   "pomo": 25,
   "shortBreak": 5,
-  "longBreak": 25,
+  "longBreak": 15,
   "longBreakInterval": 4,
-  "autostartTimer": true,
-  "numAutoCycles": 0,
+  "autostartTimer": false,
+  "numAutoCycles": 1,
   "ribbonIcon": true,
   "emoji": true,
   "notificationSound": true,
