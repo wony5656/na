@@ -11,52 +11,11 @@
             "id": "81e78ae45b3ffb87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. 계획 및 실행/'2023/2023-03-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c01b67584e9346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/정보 및 자료 수집.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18c87fc60efa3949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. 계획 및 실행/'2023/2023-03-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14d08b9b54f642e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. 계획 및 실행/'2023/2023-04-05.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +52,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0a52b97c6c7c0089",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -114,13 +81,24 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. 계획 및 실행/'2023/2023-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "527dfc45b8e1e78f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-03.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -137,6 +115,16 @@
             }
           },
           {
+            "id": "37514a19cdfbcd58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-03.md"
+              }
+            }
+          },
+          {
             "id": "814e08ef15d8f168",
             "type": "leaf",
             "state": {
@@ -145,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-statusbar-pomo:Start pomodoro": false,
       "markdown-importer:마크다운 형식 가져오기 열기": false,
       "canvas:새 캔버스 만들기": false,
       "switcher:퀵 스위처 열기": false,
@@ -162,60 +151,39 @@
       "markdown-table-editor:Open Markdown Table Editor": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "14d08b9b54f642e3",
+  "active": "81e78ae45b3ffb87",
   "lastOpenFiles": [
-    "4. 계획 및 실행/'2023/2023-04-02.md",
-    "4. 계획 및 실행/'2023/2023-04-05.md",
-    "4. 계획 및 실행/'2023/2023-04-03.md",
-    "4. 계획 및 실행/'2023/2023-04-04.md",
-    "4. 계획 및 실행/'2023/2023-W14.md",
-    "Day Planners/Day Planner-20230405.md",
-    "Day Planners/Day Planner-20230404.md",
-    "Day Planners/Day Planner-20230403.md",
-    "Day Planners/Day Planner-20230402.md",
-    "Day Planners",
-    "4. 계획 및 실행/'2023/2023-03-31.md",
-    "4. 계획 및 실행/'2023/2023-04-01.md",
-    "4. 계획 및 실행/'2023/2023-03-29.md",
+    "2023-03-19.md",
+    "2023-03-21.md",
     "desktop.ini",
-    "4. 계획 및 실행/'2023/2023-03-28.md",
-    "4. 계획 및 실행/'2023/2023-W12.md",
-    "4. 계획 및 실행/'2023/2023-W13.md",
-    "4. 계획 및 실행/용사는 연애하기 위해 마왕과 계약한다/정보 및 자료 수집.md",
-    "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/정보 및 자료 수집.md",
-    "4. 계획 및 실행/'2023/'2023.md",
-    "4. 계획 및 실행/'2023/2023-03-26.md",
-    "4. 계획 및 실행/'2023/2023-W11.md",
-    "0. 지식창고/030. 태그/031. 출처.md",
-    "0. 지식창고/030. 태그/032. 저자.md",
-    "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필/무제 폴더",
-    "4. 계획 및 실행/무제 파일.md",
-    "4. 계획 및 실행/용사는 연애하기 위해 마왕과 계약한다",
-    "4. 계획 및 실행/수상할 정도로 싸움을 잘하는 퍼리가 되었다 집필",
-    "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test1.html",
-    "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test1.asp",
-    "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test.html",
-    "Anki/lib/win32comext/axscript/Demos/client/asp/interrupt/test.asp",
-    "Anki/lib/win32comext/axscript/Demos/client/wsh/test.pys",
-    "Anki/lib/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
-    "Anki/lib/_aqt/data/qt/icons/tag.svg",
-    "Anki/lib/_aqt/data/qt/icons/tag-outline.svg",
-    "Anki/lib/_aqt/data/qt/icons/tag-off-outline.svg",
-    "Anki/lib/_aqt/data/qt/icons/selection-drag-light.svg",
-    "Anki/lib/_aqt/data/qt/icons/selection-drag-dark.svg",
-    "Anki/lib/_aqt/data/qt/icons/notetype.svg",
-    "Anki/lib/_aqt/data/qt/icons/newspaper.svg",
-    "Anki/lib/_aqt/data/qt/icons/minus-thick-light.svg",
-    "Anki/lib/_aqt/data/qt/icons/minus-thick-FG_DISABLED-light.svg",
-    "200 종교.md",
-    "_인덱스 메모.md",
-    "100 철학.md",
+    "2023-03.md",
+    "2023-W12.md",
+    "계획/'2022/1~4주차(1월)/Untitled.md",
+    "2023-03-20.md",
+    "2023-02-19.md",
+    "과업.md",
+    "Untitled.md",
+    "Drawing 2023-03-21 13.02.28.excalidraw.md",
     "무제 파일.canvas",
+    "Excalidraw/Drawing 2023-03-12 18.57.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-21 13.01.02.excalidraw.md",
+    "Untitled 1.md",
+    "무제 파일.md",
+    "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
     "무제 파일 2.canvas",
-    "무제 파일 1.canvas"
+    "무제 파일 1.canvas",
+    "계획/Pasted Image 20230312185717_420.png",
+    "계획/다운로드.png",
+    "Excalidraw",
+    "계획/'2022/5~8주차(2월)/무제 파일.md",
+    "eo/Untitled 1.md",
+    "eo/Untitled.md",
+    "계획/'2022/5~8주차(2월)/Untitled 1.md",
+    "계획/'2022/5~8주차(2월)/Untitled/7주차.md",
+    "1111.md"
   ]
 }
