@@ -11,8 +11,12 @@
             "id": "81e78ae45b3ffb87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. 계획 및 실행/'2023/2023-04-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. 계획 및 실행/'2023/2023-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +161,8 @@
   },
   "active": "81e78ae45b3ffb87",
   "lastOpenFiles": [
+    "4. 계획 및 실행/'2023/2023-04-09.md",
+    "Day Planners/Day Planner-20230409.md",
     "2023-03-19.md",
     "2023-03-21.md",
     "desktop.ini",
