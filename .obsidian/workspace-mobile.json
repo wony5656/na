@@ -11,8 +11,12 @@
             "id": "362cb6837d2a100c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. 계획 및 실행/'2023/2023-04-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "4. 계획 및 실행/'2023/2023-04-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
