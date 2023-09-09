@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d9820ce4a1ca6fa9",
+        "id": "78451e377e599a64",
         "type": "tabs",
         "children": [
           {
-            "id": "362cb6837d2a100c",
+            "id": "48c40d5836331ef3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20230518.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e169c8c1bd327de5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. 계획 및 실행/'2023/2023-04-09.md",
+                "file": "2023-09-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,6 +86,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "e7ad41ee93edfef7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,9 +108,9 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. 계획 및 실행/'2023/2023-04-09.md",
-            "collapseAll": false,
-            "extraContext": false,
+            "file": "2023-09-05.md",
+            "collapseAll": true,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -114,8 +137,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "계획/다운로드.png"
+            "file": "2023-09-05.md"
           }
+        }
+      },
+      {
+        "id": "97dbd515c89cbf68",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -123,22 +154,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "daily-notes:Open today's daily note": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "362cb6837d2a100c",
+  "active": "e169c8c1bd327de5",
   "lastOpenFiles": [
-    "4. 계획 및 실행/'2023/2023-04-03.md",
-    "4. 계획 및 실행/'2023/2023-04-09.md",
-    "4. 계획 및 실행/'2023/2023-04-01.md",
-    "2023-03-26.md",
+    "2023-09-01.md",
+    "2023-09-05.md",
+    "2023-08-31.md",
+    "2023-08-20.md",
+    "2023-08-03.md",
+    "2023-07-17.md",
+    "2023-07-16.md",
+    "2023-06-24.md",
+    "2023-06-23.md",
+    "Day Planners/Day Planner-20230525.md",
+    "2023-06-20.md",
+    "Day Planners/Day Planner-20230518.md",
+    "Day Planners/Day Planner-20230610.md",
+    "Day Planners/Day Planner-20230531.md",
+    "Day Planners/Day Planner-20230526.md",
+    "Day Planners/Day Planner-20230522.md",
+    "Day Planners/Day Planner-20230519.md",
+    "4. 계획 및 실행/'2023/2023-04-21.md",
+    "Day Planners/Day Planner-20230516.md",
+    "Day Planners/Day Planner-20230515.md",
+    "4. 계획 및 실행/'2023/2023-W14.md",
+    "4. 계획 및 실행/'2023/'2023.md",
+    "Day Planners/Day Planner-20230510.md",
+    "과업.md",
+    "Day Planners/Day Planner-20230505.md",
+    "Day Planners/Day Planner-20230504.md",
+    "Untitled 1",
+    "Untitled",
     "계획/다운로드.png",
-    "계획/Pasted Image 20230312185717_420.png",
-    "Excalidraw/Drawing 2023-03-20 14.05.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-20 13.18.17.excalidraw.md"
+    "계획/Pasted Image 20230312185717_420.png"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "pomo": 25,
   "shortBreak": 5,
-  "longBreak": 15,
+  "longBreak": 25,
   "longBreakInterval": 4,
   "autostartTimer": false,
   "numAutoCycles": 1,
@@ -14,7 +14,7 @@
   "logFile": "Pomodoro Log.md",
   "logToDaily": true,
   "logText": "[🍅] dddd, MMMM DD YYYY, h:mm A",
-  "logActiveNote": false,
+  "logActiveNote": true,
   "fancyStatusBar": false,
   "whiteNoise": false
 }

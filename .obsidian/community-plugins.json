@@ -1,17 +1,9 @@
 [
-  "table-editor-obsidian",
-  "markdown-table-editor",
-  "templater-obsidian",
   "obsidian-outliner",
   "obsidian-read-it-later",
-  "obsidian-excalidraw-plugin",
-  "obsidian-imgur-plugin",
-  "obsidian-git",
-  "dataview",
-  "periodic-notes",
-  "tag-wrangler",
-  "nldates-obsidian",
   "calendar",
+  "periodic-notes",
+  "templater-obsidian",
   "obsidian-statusbar-pomo",
-  "obsidian-day-planner"
+  "obsidian-git"
 ]
